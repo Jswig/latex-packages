@@ -7,6 +7,8 @@ LaTex packages and classes I wrote for frequent use cases. Tested under TexLive 
 
 ## Usage
 
+Make sure that the package/class you want to use is in your working directory.
+
 ### .sty files
 
 ```tex
