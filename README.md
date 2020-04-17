@@ -7,7 +7,7 @@ LaTex packages and classes I wrote for frequent use cases. Tested under TexLive 
 
 ## Usage
 
-Make sure that the package/class you want to use is in your working directory.
+Make sure that the package/class you want to use is in the same directory as your `.tex` document.
 
 ### .sty files
 
