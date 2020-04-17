@@ -1,6 +1,6 @@
-# Latex packages
+# LaTex packages
 
-My latex packages and classes for my frequent usecases.
+My LaTex packages and classes for my frequent use cases.
 
 List:
 - `mathpb.sty` (package name: `mathpb`)preamble for math problem sets and reports. Custom environments adapted from [Dana C. Ersnt](https://gist.github.com/dcernst/1827406)
