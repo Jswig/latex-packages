@@ -4,7 +4,6 @@ LaTex packages and classes I wrote for frequent use cases. Tested under TexLive 
 
 
 - `mathpb.sty`: preamble for math problem sets and reports. Custom environments adapted from [Dana C. Ersnt](https://gist.github.com/dcernst/1827406). package name: `mathpb`
-- `res.cls` class for writing resumes, adapted  Michael DeCorte
 
 ## Usage
 
