@@ -1,4 +1,4 @@
-# latex-templates
+# Latex packages
 
 Latex packages and classes for documents I frequently write
 
