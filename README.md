@@ -1,11 +1,12 @@
 # LaTex packages
 
-![LaTex 2e](https://img.shields.io/badge/LaTex-2e-yellow) ![MIT License](https://img.shields.io/badge/license-MIT-blue)
+![LaTeX 2e](https://img.shields.io/badge/LaTex-2e-yellow) ![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
-LaTex packages for things I frequently write. Tested under TexLive 2019 for Windows.
+LaTeX packages for things I frequently write. Tested under TexLive 2019 for Windows.
 
 
-- `mathpb.sty`: preamble for math problem sets and reports. Custom environments adapted from [Dana C. Ersnt](https://gist.github.com/dcernst/1827406). package name: `mathpb`
+- `mathpb.sty`: preamble for math problem sets and reports with macros for frequent symbols.
+Custom environments adapted from [Dana C. Ersnt](https://gist.github.com/dcernst/1827406). package name: `mathpb`
 
 ## Usage
 
