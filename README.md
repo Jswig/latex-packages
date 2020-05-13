@@ -1,6 +1,6 @@
 # LaTex packages
 
-![LaTeX 2e](https://img.shields.io/badge/LaTex-2e-yellow) ![MIT License](https://img.shields.io/badge/license-MIT-blue)
+-- ![LaTeX 2e](https://img.shields.io/badge/LaTex-2e-yellow) ![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
 LaTeX packages for things I frequently write. Tested under TexLive 2019 for Windows.
 
@@ -8,7 +8,7 @@ LaTeX packages for things I frequently write. Tested under TexLive 2019 for Wind
 - `mathpb.sty`: preamble for math problem sets and reports with macros for frequent symbols.
 Custom environments adapted from [Dana C. Ersnt](https://gist.github.com/dcernst/1827406). 
   - package name: `mathpb`
-  - use examples: [mathpb_example.pdf](https://github.com/Jswig/latex-packages/edit/master/mathpb_examples.pdf)
+  - use examples: [mathpb_example.pdf](https://github.com/Jswig/latex-packages/blob/master/mathpb_example.pdf)
 
 ## Usage
 
