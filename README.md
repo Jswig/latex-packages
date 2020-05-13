@@ -14,9 +14,3 @@ Make sure that the package/class you want to use is in the same directory as you
 ```tex
 \usepackage{packagename}
 ```
-
-### .cls files
-
-```tex
-\documentclass{classname}
-```
