@@ -1,6 +1,6 @@
 # LaTex packages
 
-![https://img.shields.io/badge/LaTex-2e-yellow](LaTex 2e) ![https://img.shields.io/badge/license-MIT-blue](MIT License)
+![LaTex 2e](https://img.shields.io/badge/LaTex-2e-yellow) ![MIT License](https://img.shields.io/badge/license-MIT-blue)
 
 LaTex packages for things I frequently write. Tested under TexLive 2019 for Windows.
 
