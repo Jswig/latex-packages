@@ -6,8 +6,9 @@ LaTeX packages for things I frequently write. Tested under TexLive 2019 for Wind
 
 
 - `mathpb.sty`: preamble for math problem sets and reports with macros for frequent symbols.
-Custom environments adapted from [Dana C. Ersnt](https://gist.github.com/dcernst/1827406). package name: `mathpb`
-Examples: [mathpb_example.pdf](https://github.com/Jswig/latex-packages/edit/master/mathpb_examples.pdf)
+Custom environments adapted from [Dana C. Ersnt](https://gist.github.com/dcernst/1827406). 
+  - package name: `mathpb`
+  - use examples: [mathpb_example.pdf](https://github.com/Jswig/latex-packages/edit/master/mathpb_examples.pdf)
 
 ## Usage
 
